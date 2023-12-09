@@ -1,0 +1,28 @@
+name: Seaseon2
+version: '1.0'
+api-version: '1.20'
+main: l10.dev.main.Seaseon2
+
+commands:
+  addhealth:
+    description: Add health to player
+    permission: seaseon2.addhealth
+  addlife:
+    description: Add life to player
+    permission: seaseon2.addlife
+  game:
+    description: game commands
+    permission: seaseon2.game
+  boogeyman:
+    description: kiválasztja a köcsögöt
+    permission: seaseon2.boogeyman
+  kocsogvagyok:
+    description: megmondja hogy te vagy-e a köcsögfilko
+  startendgame:
+    description: endgame elindítása
+    permission: seaseon2.endgame
+  startlava:
+    description: lava rise event
+    permission: seaseon2.startlava
+  test:
+    description: test

@@ -78,9 +78,6 @@ public class Seaseon2 extends JavaPlugin {
 
         DefaultPotionConfig();
 
-        Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "setworldspawn -1000 120 1000");
-        Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "worldborder center -1000 1000");
-
         Bukkit.getConsoleSender().sendMessage(ChatColor.LIGHT_PURPLE +  "------Season 2 plugin has finished loading------" + ChatColor.RESET);
     }
 

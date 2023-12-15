@@ -1,5 +1,8 @@
 # LifeSMP (HUN)
 
+**A PLUGIN PAPER 1.20 SZERVERHEZ LETT KÉSZÍTVE** [Letöltés](https://papermc.io/downloads/all) <br>
+A világ seedje amihez készült: `-18782750758146629`
+
 ## Játékleírás
 A Life SMP egy olan minecraftos végigjátszás ahol a játékosoknak 30 szívük van és 6 életük. A játék során regenerálódásra nincs lehetőség csak ölés által.
 A játékosok életek alapján vannak kategorizálva:
@@ -28,8 +31,6 @@ Minden session elején kisorsolásra kerül a Köcsögfilkó, akinek az a felada
 ## __Kezelési útmuitató__
 A plugin nem lett teljes mértékben felhasználó barát módon megcsinálva ezért néhany dolog megváltoztatásához újra kell buildeni.
 Ehhez az intellij idea programot tudom ajánlani [Letöltés](https://www.jetbrains.com/idea/download/)
-
-**A PLUGIN PAPER 1.20 SZERVERHEZ LETT KÉSZÍTVE** [Letöltés](https://papermc.io/downloads/all)
 
 ### Parancsok
 - `addhealth [játékosnév] [mennyiség]: hozzáad a játékosnak mennyiségnyi szivet. Ha elvenni akarunk akkor minuszt kell megadni mennyiségnek

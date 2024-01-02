@@ -28,7 +28,7 @@ Minden session elején kisorsolásra kerül a Köcsögfilkó, akinek az a felada
 #### __Sessionok ideje__
   Minden session 3 órás egy 15 perces szünettel a felénél amikor mindenkit kirúg a szerverről
 
-## __Kezelési útmuitató__
+## __Kezelési útmutató__
 A plugin nem lett teljes mértékben felhasználó barát módon megcsinálva ezért néhany dolog megváltoztatásához újra kell buildeni.
 Ehhez az intellij idea programot tudom ajánlani [Letöltés](https://www.jetbrains.com/idea/download/)
 
